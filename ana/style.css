@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(255, 159, 121);
+}
+
+.primeiraparte{
+    background-color: bisque;
+}
+.foto{
+    width: 100px;
+}
+
+.todososestudantes{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.fotos{
+    width:500px;
+}
